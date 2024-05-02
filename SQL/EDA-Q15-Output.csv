@@ -1,0 +1,16 @@
+transaction_day,time_of_day,sales_occurences
+Monday,Morning,23
+Monday,Afternoon,64
+Monday,Evening,45
+Tuesday,Morning,23
+Tuesday,Afternoon,73
+Tuesday,Evening,54
+Wednesday,Morning,27
+Wednesday,Afternoon,61
+Wednesday,Evening,53
+Thursday,Morning,39
+Thursday,Afternoon,69
+Thursday,Evening,48
+Friday,Morning,30
+Friday,Afternoon,58
+Friday,Evening,46

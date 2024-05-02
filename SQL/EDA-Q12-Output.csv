@@ -1,0 +1,4 @@
+branch,city,total_quantity,avg_quantity,branch_classification
+A,Yangon,1859,1836.6667,Exceeded
+C,Naypyitaw,1831,1836.6667,Not_Exceeded
+B,Mandalay,1820,1836.6667,Not_Exceeded

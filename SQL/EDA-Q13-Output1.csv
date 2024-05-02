@@ -1,0 +1,13 @@
+product_line,gender,frequency,rating
+"Fashion accessories",Female,96,1
+"Food and beverages",Female,90,2
+"Sports and travel",Female,88,3
+"Electronic accessories",Female,84,4
+"Home and lifestyle",Female,79,5
+"Health and beauty",Female,64,6
+"Health and beauty",Male,88,1
+"Electronic accessories",Male,86,2
+"Food and beverages",Male,84,3
+"Fashion accessories",Male,82,4
+"Home and lifestyle",Male,81,5
+"Sports and travel",Male,78,6
